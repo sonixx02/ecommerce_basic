@@ -1,0 +1,11 @@
+body{
+ font-family: "Playpen Sans",cursive;
+ background-color: #2f2b2b;
+ color: white;
+}
+
+.pc-container {
+  display: flex;
+  width: 100%;
+  
+}
